@@ -14,6 +14,9 @@
 		1836C73826CE297B00310C5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1836C73726CE297B00310C5E /* Assets.xcassets */; };
 		1836C73B26CE297B00310C5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1836C73926CE297B00310C5E /* LaunchScreen.storyboard */; };
 		189A71CF26CECB3E00AFA151 /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 189A71CE26CECB3E00AFA151 /* Inceptionv3.mlmodel */; };
+		18A5224026CED062000D5BDF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 18A5223F26CED062000D5BDF /* README.md */; };
+		18A5224426CED084000D5BDF /* CoreML1.png in Resources */ = {isa = PBXBuildFile; fileRef = 18A5224226CED084000D5BDF /* CoreML1.png */; };
+		18A5224526CED084000D5BDF /* CoreML2.png in Resources */ = {isa = PBXBuildFile; fileRef = 18A5224326CED084000D5BDF /* CoreML2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		1836C73A26CE297B00310C5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1836C73C26CE297B00310C5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		189A71CE26CECB3E00AFA151 /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Inceptionv3.mlmodel; sourceTree = SOURCE_ROOT; };
+		18A5223F26CED062000D5BDF /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		18A5224226CED084000D5BDF /* CoreML1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CoreML1.png; sourceTree = "<group>"; };
+		18A5224326CED084000D5BDF /* CoreML2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CoreML2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +48,9 @@
 		1836C72226CE297A00310C5E = {
 			isa = PBXGroup;
 			children = (
+				18A5224226CED084000D5BDF /* CoreML1.png */,
+				18A5224326CED084000D5BDF /* CoreML2.png */,
+				18A5223F26CED062000D5BDF /* README.md */,
 				1836C72D26CE297A00310C5E /* CoreML-Swift-5-IOS-Example */,
 				1836C72C26CE297A00310C5E /* Products */,
 			);
@@ -129,6 +138,9 @@
 			files = (
 				1836C73B26CE297B00310C5E /* LaunchScreen.storyboard in Resources */,
 				1836C73826CE297B00310C5E /* Assets.xcassets in Resources */,
+				18A5224426CED084000D5BDF /* CoreML1.png in Resources */,
+				18A5224026CED062000D5BDF /* README.md in Resources */,
+				18A5224526CED084000D5BDF /* CoreML2.png in Resources */,
 				1836C73626CE297A00310C5E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
