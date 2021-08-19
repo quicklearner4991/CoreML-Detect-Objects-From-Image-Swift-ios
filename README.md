@@ -18,6 +18,6 @@ INSTALLATION NOTES:-
 
 
 
-![Alt text](https://github.com/quicklearner4991/CoreML-Detects-Objects-From-Image-Swift-ios/blob/main/CoreML1.png)
-![Alt text](https://github.com/quicklearner4991/CoreML-Detects-Objects-From-Image-Swift-ios/blob/main/CoreML2.png)
+![Alt text](https://github.com/quicklearner4991/CoreML-Detect-Objects-From-Image-Swift-ios/blob/main/CoreML1.png)
+![Alt text](https://github.com/quicklearner4991/CoreML-Detect-Objects-From-Image-Swift-ios/blob/main/CoreML2.png)
 
